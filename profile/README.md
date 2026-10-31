@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/banner.svg?raw=true" alt="OpenShelves: your university library, as easy to search as the web. A night reading room: a moonlit arched window between tall shelves, a desk lamp's warm glow, and pages of light drifting up from an open book. The reading room never closes." width="100%">
+<img src="assets/banner.svg" alt="OpenShelves: your university library, as easy to search as the web. Late-afternoon sunlight slants through tall bookshelves, with dust drifting in the beams. The light finds every shelf." width="100%">
 
 <br><br>
 
-*The lamps burn low, the long hall sleeps,*<br>
-*the moon keeps watch through glass and stone;*<br>
-*and in the quiet, every page it keeps*<br>
-*waits for a reader of its own.*
+*The late sun leans through window glass*<br>
+*and gilds the spines in patient rows;*<br>
+*the dust turns gold as hours pass,*<br>
+*and every answer, waiting, glows.*
 
 <br>
 
-[![Explore the project](https://img.shields.io/badge/Explore_the_project-→-2F5D45?style=for-the-badge)](https://github.com/openshelves-labs/openshelves)
+[![Explore the project](https://img.shields.io/badge/Explore_the_project-→-A8652C?style=for-the-badge)](https://github.com/openshelves-labs/openshelves)
 &nbsp;
-[![See the prototype](https://img.shields.io/badge/See_the_prototype-→-1E3F2E?style=for-the-badge)](https://github.com/openshelves-labs/openshelves-demo-site)
+[![See the prototype](https://img.shields.io/badge/See_the_prototype-→-7A4E33?style=for-the-badge)](https://github.com/openshelves-labs/openshelves-demo-site)
 &nbsp;
-[![Contribute](https://img.shields.io/badge/Contribute-→-5C6460?style=for-the-badge)](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md)
+[![Contribute](https://img.shields.io/badge/Contribute-→-6B5240?style=for-the-badge)](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -32,7 +32,7 @@ Somewhere in every university, the answer to someone's question already sits on 
 ## ✨ The Shelves · What it does
 
 <p align="center">
-  <img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/shelves.svg?raw=true" alt="What OpenShelves does. Discover: catalog, journals and digital resources, in one search. Borrow: loans, renewals, holds and fines, without the desk. Research: reading lists, history and citations, kept together. Keep: a calm workspace for librarians to catalog." width="100%">
+  <img src="assets/shelves.svg" alt="What OpenShelves does. Discover: catalog, journals and digital resources, in one search. Borrow: loans, renewals, holds and fines, without the desk. Research: reading lists, history and citations, kept together. Keep: a calm workspace for librarians to catalog." width="100%">
 </p>
 
 <br>
@@ -61,9 +61,9 @@ Somewhere in every university, the answer to someone's question already sits on 
 ## 🚀 The Collection · Our projects
 
 <p align="center">
-  <a href="https://github.com/openshelves-labs/openshelves"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/project-openshelves.svg?raw=true" alt="OpenShelves, the platform: backend API, web app and infrastructure, in one repository. Start here." width="47%"></a>
+  <a href="https://github.com/openshelves-labs/openshelves"><img src="assets/project-openshelves.svg" alt="OpenShelves, the platform: backend API, web app and infrastructure, in one repository. Start here." width="47%"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/openshelves-labs/openshelves-demo-site"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/project-demo.svg?raw=true" alt="Demo Site, the prototype: an early sketch on sample data, showing where the experience is headed." width="47%"></a>
+  <a href="https://github.com/openshelves-labs/openshelves-demo-site"><img src="assets/project-demo.svg" alt="Demo Site, the prototype: an early sketch on sample data, showing where the experience is headed." width="47%"></a>
 </p>
 
 ### 📚 Reading guides
@@ -116,7 +116,7 @@ Whether you write code, shape interfaces, keep a library, or simply love the ide
 
 <br><br>
 
-<sub><i>Colophon: set in Literata and DM Sans, by lamplight, after the reading room closed.</i></sub><br>
+<sub><i>Colophon: set in Literata and DM Sans, in the last good light of the afternoon.</i></sub><br>
 **© 2026 OpenShelves Labs** · Built with care for the academic community
 
 </div>
