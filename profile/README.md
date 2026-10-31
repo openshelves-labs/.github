@@ -116,7 +116,8 @@ Whether you write code, shape interfaces, keep a library, or simply love the ide
 
 <br><br>
 
-<sub><i>Colophon: set in Literata and DM Sans, in the last good light of the afternoon.</i></sub><br>
 **© 2026 OpenShelves Labs** · Built with care for the academic community
+
+<sub><i>Set in Literata and DM Sans, in the last good light of the afternoon.</i></sub>
 
 </div>
