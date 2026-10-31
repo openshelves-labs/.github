@@ -1,19 +1,19 @@
 <div align="center">
 
-# 📚 OpenShelves
+<img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/banner.svg?raw=true" alt="OpenShelves: your university library, as easy to search as the web. Search, borrow, research, manage." width="100%">
 
-### Your university library, as easy to search as the web.
+<br><br>
 
-OpenShelves turns slow, legacy academic catalogs into a fast, beautiful discovery experience<br>
-built for the students, researchers, and librarians who use them every day.
+OpenShelves turns slow, legacy academic catalogs into a fast, calm discovery experience<br>
+built for the students, researchers and librarians who use them every day.
 
 <br>
 
-[![Explore the Project](https://img.shields.io/badge/Explore_the_Project-→-2EA44F?style=for-the-badge)](https://github.com/openshelves-labs/openshelves)
+[![Explore the project](https://img.shields.io/badge/Explore_the_project-→-2F5D45?style=for-the-badge)](https://github.com/openshelves-labs/openshelves)
 &nbsp;
-[![See the Prototype](https://img.shields.io/badge/See_the_Prototype-→-0366D6?style=for-the-badge)](https://github.com/openshelves-labs/openshelves-demo-site)
+[![See the prototype](https://img.shields.io/badge/See_the_prototype-→-1E3F2E?style=for-the-badge)](https://github.com/openshelves-labs/openshelves-demo-site)
 &nbsp;
-[![Contribute](https://img.shields.io/badge/Contribute-→-6E7681?style=for-the-badge)](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md)
+[![Contribute](https://img.shields.io/badge/Contribute-→-5C6460?style=for-the-badge)](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -21,9 +21,9 @@ built for the students, researchers, and librarians who use them every day.
 
 ## 💡 Why OpenShelves?
 
-Most library systems were built for librarians, not for the people searching them. Finding a book means fighting clunky filters, cryptic call numbers, and pages that haven't changed in twenty years.
+Most library systems were built for librarians, not for the people searching them. Finding a book means fighting clunky filters, cryptic call numbers and pages that haven't changed in twenty years.
 
-**We think that should change.** OpenShelves is an open platform that gives every academic library a modern front door, without asking them to give up the reliability of a scholarly archive.
+**We think that should change.** OpenShelves gives every academic library a modern front door, without giving up the reliability of a scholarly archive.
 
 <br>
 
@@ -34,13 +34,13 @@ Most library systems were built for librarians, not for the people searching the
 <td width="50%" valign="top">
 
 ### 🔎 Discover
-Search the full catalog, journals, and digital resources in one place, with fast results and filters that make sense.
+Search the catalog, journals and digital resources in one place, with fast results and filters that make sense.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📖 Borrow
-See your loans, renew in a click, place and track holds, and settle fines without visiting the front desk.
+See your loans, renew in a click, place and track holds, and settle fines without visiting the desk.
 
 </td>
 </tr>
@@ -48,13 +48,13 @@ See your loans, renew in a click, place and track holds, and settle fines withou
 <td width="50%" valign="top">
 
 ### 🗂️ Research
-Build reading lists for projects and courses, keep your borrowing history, and cite resources instantly.
+Build reading lists for courses and projects, keep your borrowing history, and cite anything instantly.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏛️ Manage
-Give librarians a clean workspace for cataloging, circulation, and keeping the collection up to date.
+Give librarians a clean workspace for cataloging, with metadata pulled from Open Library, Google Books and more.
 
 </td>
 </tr>
@@ -62,22 +62,47 @@ Give librarians a clean workspace for cataloging, circulation, and keeping the c
 
 <br>
 
-## 🚀 Our Projects
+## 🧭 Where we are
+
+| | Area | Status |
+|---|---|---|
+| ✅ | **Design** | API design for every feature, design system, architecture |
+| 🚧 | **Sign-in** | Password login and sessions built in the API; campus SSO (SAML / OIDC) next |
+| 🚧 | **Catalog** | Data model and metadata-provider integrations built; search API next |
+| 🚧 | **Web app** | Next.js app scaffolded with the design system; screens being built from the prototype |
+| 📋 | **Borrowing** | Loans, renewals, holds, fines: designed, not started |
+| 📋 | **Research tools** | Reading lists, history, notifications: designed, not started |
+
+<sub>✅ Done · 🚧 In progress · 📋 Planned</sub>
+
+<br>
+
+## 🏗️ How it fits together
+
+<img src="https://github.com/openshelves-labs/openshelves/blob/main/docs/assets/architecture.svg?raw=true" alt="OpenShelves architecture: patrons and librarians use the Next.js frontend, which calls the Spring Boot backend API with a bearer token. The backend stores data in PostgreSQL, looks up book metadata from external providers, and will later integrate with campus SSO, payments, email and a library proxy." width="100%">
+
+<br>
+
+## 🚀 Our projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [OpenShelves →](https://github.com/openshelves-labs/openshelves)
-The platform itself: the backend API, the web app, and infrastructure, all in one repository.
+The platform itself: backend API, web app and infrastructure, in one repository.
 
-**Start here** if you want to follow along or contribute.
+**Start here** to follow along or contribute.
+
+📐 [API design](https://github.com/openshelves-labs/openshelves/blob/main/docs/api-design/README.md) ·
+🎨 [Design system](https://github.com/openshelves-labs/openshelves/blob/main/docs/Design%20System.md) ·
+🖥️ [Frontend architecture](https://github.com/openshelves-labs/openshelves/blob/main/docs/Frontend%20Architecture.md)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Demo Site →](https://github.com/openshelves-labs/openshelves-demo-site)
-An early prototype built on sample data, showing where the product experience is headed.
+An early prototype on sample data, showing where the product experience is headed.
 
 A glimpse of the vision, not the final product.
 
@@ -87,16 +112,17 @@ A glimpse of the vision, not the final product.
 
 <br>
 
-## 🛠 Built with
+## 🛠️ Built with
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java 25](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot 4](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -104,11 +130,11 @@ A glimpse of the vision, not the final product.
 
 ## 🌱 We're just getting started
 
-OpenShelves is in **early, active development**. That means it's the perfect time to get involved and help shape what academic discovery looks like next.
+OpenShelves is in **early, active development**, which makes now the best time to help shape what academic discovery looks like next.
 
-Whether you write code, design interfaces, work in a library, or just love the idea, there's a place for you.
+Whether you write code, design interfaces, work in a library, or just like the idea, there's a place for you.
 
-👉 Read the [Contributing Guide](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md) to get started.
+👉 Start with the [Contributing Guide](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md).
 
 <br>
 
