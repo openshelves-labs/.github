@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/banner.svg?raw=true" alt="OpenShelves: your university library, as easy to search as the web. Search, borrow, research, manage." width="100%">
+<img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/banner.svg?raw=true" alt="OpenShelves: your university library, as easy to search as the web. A night reading room: a moonlit arched window between tall shelves, a desk lamp's warm glow, and pages of light drifting up from an open book. The reading room never closes." width="100%">
 
 <br><br>
 
-OpenShelves turns slow, legacy academic catalogs into a fast, calm discovery experience<br>
-built for the students, researchers and librarians who use them every day.
+*The lamps burn low, the long hall sleeps,*<br>
+*the moon keeps watch through glass and stone;*<br>
+*and in the quiet, every page it keeps*<br>
+*waits for a reader of its own.*
 
 <br>
 
@@ -17,124 +19,68 @@ built for the students, researchers and librarians who use them every day.
 
 </div>
 
-<br>
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-## 💡 Why OpenShelves?
+## 💡 Prologue · Why OpenShelves
 
-Most library systems were built for librarians, not for the people searching them. Finding a book means fighting clunky filters, cryptic call numbers and pages that haven't changed in twenty years.
+Somewhere in every university, the answer to someone's question already sits on a shelf. Too often it is never found: buried under clunky filters, cryptic call numbers and pages that haven't changed in twenty years.
 
-**We think that should change.** OpenShelves gives every academic library a modern front door, without giving up the reliability of a scholarly archive.
+**OpenShelves gives every academic library a modern front door**: as easy to search as the web, as dependable as the archive behind it.
 
-<br>
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-## ✨ What it does
+## ✨ The Shelves · What it does
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/shelves.svg?raw=true" alt="What OpenShelves does. Discover: catalog, journals and digital resources, in one search. Borrow: loans, renewals, holds and fines, without the desk. Research: reading lists, history and citations, kept together. Keep: a calm workspace for librarians to catalog." width="100%">
+</p>
 
-### 🔎 Discover
-Search the catalog, journals and digital resources in one place, with fast results and filters that make sense.
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-</td>
-<td width="50%" valign="top">
+## 🧭 The Ledger · Where we are
 
-### 📖 Borrow
-See your loans, renew in a click, place and track holds, and settle fines without visiting the desk.
+<p align="center">
+  <img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/ledger.svg?raw=true" alt="Where we are, as a shelf of chapters. Written: Design (API design for every feature, design system, architecture). Being built: Sign-in (password login and sessions; campus SSO next), Catalog (data model and metadata providers; search API next), Web app (Next.js with the design system). Planned: Borrowing (loans, renewals, holds, fines) and Research tools (reading lists, history, notifications)." width="100%">
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-### 🗂️ Research
-Build reading lists for courses and projects, keep your borrowing history, and cite anything instantly.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ Manage
-Give librarians a clean workspace for cataloging, with metadata pulled from Open Library, Google Books and more.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧭 Where we are
-
-| | Area | Status |
-|---|---|---|
-| ✅ | **Design** | API design for every feature, design system, architecture |
-| 🚧 | **Sign-in** | Password login and sessions built in the API; campus SSO (SAML / OIDC) next |
-| 🚧 | **Catalog** | Data model and metadata-provider integrations built; search API next |
-| 🚧 | **Web app** | Next.js app scaffolded with the design system; screens being built from the prototype |
-| 📋 | **Borrowing** | Loans, renewals, holds, fines: designed, not started |
-| 📋 | **Research tools** | Reading lists, history, notifications: designed, not started |
-
-<sub>✅ Done · 🚧 In progress · 📋 Planned</sub>
-
-<br>
-
-## 🏗️ How it fits together
+## 🏗️ The Blueprint · How it fits together
 
 <img src="https://github.com/openshelves-labs/openshelves/blob/main/docs/assets/architecture.svg?raw=true" alt="OpenShelves architecture: patrons and librarians use the Next.js frontend, which calls the Spring Boot backend API with a bearer token. The backend stores data in PostgreSQL, looks up book metadata from external providers, and will later integrate with campus SSO, payments, email and a library proxy." width="100%">
 
-<br>
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-## 🚀 Our projects
+## 🚀 The Collection · Our projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/openshelves-labs/openshelves"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/project-openshelves.svg?raw=true" alt="OpenShelves, the platform: backend API, web app and infrastructure, in one repository. Start here." width="49%"></a>
+  <a href="https://github.com/openshelves-labs/openshelves-demo-site"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/project-demo.svg?raw=true" alt="Demo Site, the prototype: an early sketch on sample data, showing where the experience is headed." width="49%"></a>
+</p>
 
-### [OpenShelves →](https://github.com/openshelves-labs/openshelves)
-The platform itself: backend API, web app and infrastructure, in one repository.
+<p align="center">
+  📐 <a href="https://github.com/openshelves-labs/openshelves/blob/main/docs/api-design/README.md">API design</a> ·
+  🎨 <a href="https://github.com/openshelves-labs/openshelves/blob/main/docs/Design%20System.md">Design system</a> ·
+  🖥️ <a href="https://github.com/openshelves-labs/openshelves/blob/main/docs/Frontend%20Architecture.md">Frontend architecture</a>
+</p>
 
-**Start here** to follow along or contribute.
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-📐 [API design](https://github.com/openshelves-labs/openshelves/blob/main/docs/api-design/README.md) ·
-🎨 [Design system](https://github.com/openshelves-labs/openshelves/blob/main/docs/Design%20System.md) ·
-🖥️ [Frontend architecture](https://github.com/openshelves-labs/openshelves/blob/main/docs/Frontend%20Architecture.md)
+## 🛠️ The Craft · Built with
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/craft.svg?raw=true" alt="Built with: Java 25, the binding that holds every page; Spring Boot 4, the shelving every service stands on; PostgreSQL, the stacks where every record waits; Next.js 16, the front desk readers walk up to; TypeScript, the catalogue cards that keep order; Tailwind CSS, the paper and ink of every page." width="100%">
+</p>
 
-### [Demo Site →](https://github.com/openshelves-labs/openshelves-demo-site)
-An early prototype on sample data, showing where the product experience is headed.
+<p align="center"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/divider.svg?raw=true" alt="" width="100%"></p>
 
-A glimpse of the vision, not the final product.
+## 🌱 An Open Invitation
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md"><img src="https://github.com/openshelves-labs/.github/blob/main/profile/assets/invitation.svg?raw=true" alt="An open invitation: the library door left ajar at night, warm light spilling out. The door is open. Come in, find a shelf, add a page." width="100%"></a>
 
-<br>
+Whether you write code, shape interfaces, keep a library, or simply love the idea, there is a place for you on these shelves.
 
-## 🛠️ Built with
-
-<div align="center">
-
-![Java 25](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot 4](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
-<br>
-
-## 🌱 We're just getting started
-
-OpenShelves is in **early, active development**, which makes now the best time to help shape what academic discovery looks like next.
-
-Whether you write code, design interfaces, work in a library, or just like the idea, there's a place for you.
-
-👉 Start with the [Contributing Guide](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md).
+**→ Begin with the [Contributing Guide](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md).**
 
 <br>
 
@@ -152,6 +98,7 @@ Whether you write code, design interfaces, work in a library, or just like the i
 
 <br><br>
 
-**© 2026 OpenShelves Labs** · Built with ❤️ for the academic community
+<sub><i>Colophon: set in Literata and DM Sans, by lamplight, after the reading room closed.</i></sub><br>
+**© 2026 OpenShelves Labs** · Built with care for the academic community
 
 </div>
