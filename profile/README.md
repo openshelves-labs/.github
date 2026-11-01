@@ -4,9 +4,9 @@
 
 <br><br>
 
-*The late sun leans through window glass*<br>
-*and gilds the spines in patient rows;*<br>
-*the dust turns gold as hours pass,*<br>
+*The early light through window glass*<br>
+*lies pale along the patient rows;*<br>
+*the dust drifts slow as hours pass,*<br>
 *and every answer, waiting, glows.*
 
 <br>
