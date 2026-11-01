@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="OpenShelves: your university library, as easy to search as the web. Late-afternoon sunlight slants through tall bookshelves, with dust drifting in the beams. The light finds every shelf." width="100%">
+<img src="assets/banner.svg" alt="OpenShelves: your university library, as easy to search as the web. Early morning light slants through tall bookshelves, with dust drifting in the beams. The light finds every shelf." width="100%">
 
 <br><br>
 
@@ -11,11 +11,11 @@
 
 <br>
 
-[![Explore the project](https://img.shields.io/badge/Explore_the_project-→-A8652C?style=for-the-badge)](https://github.com/openshelves-labs/openshelves)
+[![Explore the project](https://img.shields.io/badge/Explore_the_project-→-2F5D45?style=for-the-badge)](https://github.com/openshelves-labs/openshelves)
 &nbsp;
-[![See the prototype](https://img.shields.io/badge/See_the_prototype-→-7A4E33?style=for-the-badge)](https://github.com/openshelves-labs/openshelves-demo-site)
+[![See the prototype](https://img.shields.io/badge/See_the_prototype-→-1E3F2E?style=for-the-badge)](https://github.com/openshelves-labs/openshelves-demo-site)
 &nbsp;
-[![Contribute](https://img.shields.io/badge/Contribute-→-6B5240?style=for-the-badge)](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md)
+[![Contribute](https://img.shields.io/badge/Contribute-→-5C6460?style=for-the-badge)](https://github.com/openshelves-labs/openshelves/blob/main/CONTRIBUTING.md)
 
 </div>
 
